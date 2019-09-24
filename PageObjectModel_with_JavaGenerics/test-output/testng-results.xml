@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45304" started-at="2019-09-24T18:27:21Z" finished-at="2019-09-24T18:28:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45304" started-at="2019-09-24T18:27:21Z" finished-at="2019-09-24T18:28:06Z">
+      <class name="com.pom.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pom.test.LoginPageTest@cc285f4]" name="setUp" is-config="true" duration-ms="13985" started-at="2019-09-24T18:27:21Z" finished-at="2019-09-24T18:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.pom.test.LoginPageTest@cc285f4]" name="verifyLoginPageTitleTest" duration-ms="46" started-at="2019-09-24T18:27:35Z" finished-at="2019-09-24T18:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pom.test.LoginPageTest@cc285f4]" name="setUp" is-config="true" duration-ms="26574" started-at="2019-09-24T18:27:35Z" finished-at="2019-09-24T18:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.pom.test.LoginPageTest@cc285f4]" name="loginTest" duration-ms="2416" started-at="2019-09-24T18:28:02Z" finished-at="2019-09-24T18:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pom.test.LoginPageTest@cc285f4]" name="tearDown" is-config="true" duration-ms="2244" started-at="2019-09-24T18:28:04Z" finished-at="2019-09-24T18:28:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pom.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
